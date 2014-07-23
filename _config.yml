@@ -18,8 +18,8 @@ author:
 
 # Custom vars
 version:          1.0.0
-github:
-  repo:           https://
+github:           https://github.com/YuchuanWeng
+  repo:           /YuchuanWeng.github.io
 
 pages_list:
   About: '/about'
